@@ -4,7 +4,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Welcome
 
-Automation is key for repetitive tasks like testing, scanning, review, and deployment processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to streamline that workflow.
+Automation is key for repetitive tasks testing, scanning, review, and deployment processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to streamline that workflow.
 
 - **Who is this for**: Developers, DevOps engineers, Security engineers
 - **What you'll learn**: How to create GitHub Actions workflows, how to run them, and how to use them to automate tasks.
